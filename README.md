@@ -1,6 +1,6 @@
 # LangGraph + Composio AI Agents — 10 Production Workflows
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![LangGraph](https://img.shields.io/badge/LangGraph-0.2-purple) ![Composio](https://img.shields.io/badge/Composio-SaaS%20integrations-green) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?logo=openai) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![LangGraph](https://img.shields.io/badge/LangGraph-0.2-purple) ![Composio](https://img.shields.io/badge/Composio-SaaS%20integrations-green) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?logo=openai) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 
 Ten production-grade agentic workflows built with **LangGraph** (supervisor + worker pattern) and **Composio** (one-click SaaS OAuth). Each agent solves a real business automation problem end-to-end.
 
