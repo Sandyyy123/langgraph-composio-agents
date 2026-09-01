@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # LangGraph + Composio AI Agents — 10 Production Workflows
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![LangGraph](https://img.shields.io/badge/LangGraph-0.2-purple) ![Composio](https://img.shields.io/badge/Composio-SaaS%20integrations-green) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?logo=openai) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
